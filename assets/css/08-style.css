@@ -1,0 +1,14 @@
+
+/*comment bloğu nasıl yapılır örnek*/
+
+nav.nav-el{
+    color: black;
+    background-color: lightgray;
+    text-align: center;
+}
+
+div.active{
+    background-color: rgb(65, 59, 59);
+    color: white;
+    padding: 1.rem;
+}
